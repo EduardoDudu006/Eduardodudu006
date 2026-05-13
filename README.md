@@ -1,7 +1,3 @@
-
-
-Eduardodudu006 / README.md
-
 <p width="100%">
   <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/648c4a51-fe5c-4a04-bb75-83e8edb555e4" />
 </p>
