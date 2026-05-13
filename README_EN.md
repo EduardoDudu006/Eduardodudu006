@@ -7,12 +7,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;HTML5+%7C+CSS3%7C+JavaScript+%7C+React+%7C+Node%7C+Java+%7C+Python;Building+real+and+scalable+solutions;Transitioning+career+to+Technology](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=500&center=true&vCenter=true&width=435&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript;React+%E2%80%A2+Node.js+%E2%80%A2+Bootstrap;+Python+%E2%80%A2+MySQL+%E2%80%A2+Java" />
 
-
 ---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=EduardoDudu006&style=for-the-badge&hegth=40&weight=500&color=800000&label=VIEWS" />
-
 
 ---
 
@@ -247,15 +245,11 @@ Web-based system for managing support calls and tickets, focused on productivity
 
 <p align="center" width="100%>
   <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/EduardoDudu006?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-  <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/EduardoDudu006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/EduardoDudu006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 Philosophy
-
-> "Clean code solves problems. Smart code prevents them from coming back."
-
----
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f5e84362-052f-4cde-9afc-36f2dd195371" />
 
 <h3  align="center"> <sub align="center">© 2026 Eduardo Luz. All rights reserved..</sub></h3>
