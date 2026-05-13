@@ -2,8 +2,8 @@
 
 Eduardodudu006 / README.md
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=10000&pause=1000&center=true&vCenter=true&width=435&lines=Eduardo+Luz" />
+<p width="100%">
+  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/648c4a51-fe5c-4a04-bb75-83e8edb555e4" />
 </p>
 
 ---
@@ -40,8 +40,34 @@ O grande diferencial competitivo da minha trajetória reside nas competências c
 
 ## 🚀 Tecnologias
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" height="65" style="margin-right: 15px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=css" height="65" style="margin-right: 15px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=js" height="65" style="margin-right: 15px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=react" height="65" style="margin-right: 15px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="65" style="margin-right: 15px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=java" height="65" style="margin-right: 15px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=python" height="65" style="margin-right: 15px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mysql" height="65" style="margin-right: 18px;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git" height="65" />
+
 </p>
 
 ---
