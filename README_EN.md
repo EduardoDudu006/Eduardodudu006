@@ -244,7 +244,7 @@ Web-based system for managing support calls and tickets, focused on productivity
 </p>
 
 <p align="center" width="100%>
-  <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/EduardoDudu006?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+  <img alt="total-stars" src="https://custom-icon-badges.demolab.com/github/stars/EduardoDudu006?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
   <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/EduardoDudu006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
 </p>
 
