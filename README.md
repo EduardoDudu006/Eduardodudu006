@@ -259,10 +259,6 @@ Sistema web de gerenciamento de chamados e tickets de suporte com foco em produt
 
 ---
 
-## 🧠 Filosofia
-
-> "Código limpo resolve problemas. Código inteligente evita que eles voltem."
-
----
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6f34bbd4-41af-4313-99c9-7255c5ce6110" />
 
 <h3  align="center"> <sub align="center">© 2026 Eduardo Luz. Todos os direitos reservados.</sub></h3>
