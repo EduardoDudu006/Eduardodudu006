@@ -232,7 +232,7 @@ Sistema web de gerenciamento de chamados e tickets de suporte com foco em produt
 
 ## 🌐 Contato
 
-<p align="left">
+<p align="center" width="100%">
   <a href="https://www.linkedin.com/in/eduardo-luz-006br/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -247,7 +247,7 @@ Sistema web de gerenciamento de chamados e tickets de suporte com foco em produt
   </a>
 </p>
 
-<p align="left">
+<p align="center" width="100%">
   <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/EduardoDudu006?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
   <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/EduardoDudu006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
 </p>
